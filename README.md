@@ -1,2 +1,2 @@
 # pingtest
-pinging test
+pinging test application
