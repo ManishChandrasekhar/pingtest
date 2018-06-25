@@ -1,0 +1,2 @@
+# pingtest
+pinging test
